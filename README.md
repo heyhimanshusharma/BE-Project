@@ -282,7 +282,7 @@ ros2 launch embodied_intelligence main.launch.py
 For questions, issues, or contributions, please:
 - Open an issue on GitHub
 - Join our Discord community
-- Email the maintainers at [email@example.com]
+- Email the maintainers at heyhimanshusharma@gmail.com
 
 ---
 
